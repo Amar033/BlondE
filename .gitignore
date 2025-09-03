@@ -13,3 +13,6 @@ pip-delete-this-directory.txt
 dist/
 build/
 .DS_Store
+
+.env
+/env
